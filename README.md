@@ -1,4 +1,4 @@
-# Resume Builder Project
+# Resume Builder Projectt
 
 ## Description
 This is a simple web application to create professional resumes. Users can edit content in real-time and customize their resume layout. The project includes:
